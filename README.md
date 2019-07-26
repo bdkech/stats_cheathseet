@@ -7,5 +7,5 @@ This is a flow chart that myself and a group mate originally created many, many 
 
 ## Flow chart
 
-![img](https://github.com/bdkech/stats_cheatsheet/img/stats_flowchart.svg)
+![img](https://raw.githubusercontent.com/bdkech/stats_cheatsheet/master/img/stats_flowchart.svg)
 
