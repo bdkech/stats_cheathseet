@@ -7,5 +7,5 @@ This is a flow chart that myself and a group mate originally created many, many 
 
 ## Flow chart
 
-[img](imgs/stats_flowchart.svg)
+![img](imgs/stats_flowchart.svg)
 
